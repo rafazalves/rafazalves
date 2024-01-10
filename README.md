@@ -12,8 +12,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=atom,androidstudio,dart,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=atom,emacs,androidstudio,vscode,idea,github,gitlab,dart,flutter,html,css,php,nodejs,figma,git" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,docker,haskell,java,js,latex,mysql,postgres,sqlite,py,r" /><br>
 </div>
 
 <br/>
